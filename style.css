@@ -1,0 +1,118 @@
+*{
+
+    margin: 0;
+    scroll-behavior: smooth;
+}
+main{
+
+    padding-top: 80px;
+}
+header{
+
+    display: flex;
+    justify-content: space-between;
+    background-color: #ffc3e8;
+    color:cornflowerblue;
+    height: 50px;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+
+}
+.sobre{
+
+    display: flex;
+    justify-content: space-between;
+    background-color:rgb(229, 255, 254);
+    color:cornflowerblue;
+
+}
+h1{
+
+    text-align: center;
+
+}
+.imagemfoto{
+
+    height: 350px;
+    width: 400px;
+    margin-top: 200px;
+    margin-right: 100px;
+    margin-bottom: 200px;
+    border-radius: 10%;
+
+
+}
+.projetos{
+
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(229, 255, 254);
+
+}
+.imagemprojetos{
+
+    height: 250px;
+    width: 250px;
+    margin-top: 200px;
+    margin-bottom: 200px;
+}
+.sobremim{
+
+    display: flex;
+    align-items: center;
+    margin-left: 200px;
+}
+body {
+
+    background-color: rgb(159, 191, 223);
+    color: azure;
+
+}
+.contatos {
+
+    display: flex;
+    justify-content: center;
+    margin-top: 200px;
+    margin-bottom: 200px;
+
+}
+footer {
+
+background-color: rgb(229, 255, 254);
+height: 200px;
+color: cornflowerblue;
+display: flex;
+align-items: center;
+
+}
+a{
+
+    text-decoration: none;
+    color: cornflowerblue;
+
+}
+.Sobreparacima{
+
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    background-color:rgb(159, 191, 223);
+    color:cornflowerblue;
+}
+.contatosparacima{
+
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    background-color:rgb(159, 191, 223);
+    color:cornflowerblue;
+}
+.projetosparacima{
+
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 10px;
+    background-color:rgb(159, 191, 223);
+    color:cornflowerblue;
+}
